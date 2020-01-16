@@ -1,4 +1,4 @@
-# Pixlz_HomePage
+# Pixlz
 
 Pixlz is your go-tool for creating awesome communities.
 
