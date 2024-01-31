@@ -1,5 +1,4 @@
-# Pixlz
-# Brand Website
+# Pixlz - Brand Website
 Pixlz is your go-tool for creating awesome communities.
 
 Hello there! Nobody usually reads the description, except you.. you badass. 
